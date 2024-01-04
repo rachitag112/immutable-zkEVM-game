@@ -1,0 +1,16 @@
+{
+  "name": "immutable-stackupinvaders",
+  "version": "1.0.0",
+  "description": "A capstone project for minting of Non-Fungible Tokens within the game, which will offer players unique, verifiable ownership of in-game items with gaming mechanics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
